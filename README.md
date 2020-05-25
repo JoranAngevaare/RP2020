@@ -5,6 +5,7 @@ Bachelor Natuur- en Sterrenkunde (joint degree)
 
 # Supervisors:
 J. Angevaare <j.angevaare@nikhef.nl>
+
 prof. A.P. Colijn <A.P.Colijn@uva.nl>
 
 # How to get started?
