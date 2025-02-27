@@ -1,4 +1,10 @@
 # RP2020
+[![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)](https://github.com/GIScience/badges#archive)
+
+This package has been archived.
+
+--------------
+
 [Research Practicum 2020](https://datanose.nl/#course[77189]) 5092REPR3Y
 
 Bachelor Natuur- en Sterrenkunde (joint degree)
